@@ -14,5 +14,5 @@ is gentlest for VGG-11. For quantization, we will
 use PTQ and QAT across {fp16, bf16, int8, int4}
 and report scaling trends; for distillation, a VGG–
 16/19 teacher transfers to a VGG-11 student with
-logit/hint/contrastive variants to test whether big-
-ger teachers actually help.
+logit/hint/contrastive variants to test whether bigger 
+teachers actually help.
