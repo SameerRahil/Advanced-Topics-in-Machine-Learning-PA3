@@ -1,4 +1,4 @@
-e implement magnitude-based
+We implement magnitude-based
 unstructured and structured pruning with lay-
 erwise sensitivity scans and a per-layer sparsity
 schedule that hits ∼70% overall sparsity while
